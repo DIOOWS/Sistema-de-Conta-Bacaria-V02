@@ -14,9 +14,5 @@ Este é um projeto que simula um sistema de gerenciamento de contas bancárias, 
 - **Java:** Linguagem principal utilizada no desenvolvimento.
 - **Paradigma POO:** Aplicação de conceitos como herança, encapsulamento e polimorfismo.
 
-## 🚀 Como Usar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/DIOOWS/Sistema-de-Conta-Bacaria-V02.git
 
